@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-import pyrebase
+from pyrebase import pyrebase
 from django.contrib import auth
 
 # Create your views here.
