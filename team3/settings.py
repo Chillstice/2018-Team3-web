@@ -25,7 +25,7 @@ SECRET_KEY = 'zg6g%$@vrbd-!qbgmi(u-(tsra-!3l_$jgy_3c*sf7i^jcz%bf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['wheresthebeef.cool', 'www.wheresthebeef.cool','beef-where.herokuapp.com', 'www.beef-where.herokuapp.com']
+ALLOWED_HOSTS = ['wheresthebeef.cool', 'www.wheresthebeef.cool','beef-where.herokuapp.com', 'www.beef-where.herokuapp.com', 'localhost']
 
 
 # Application definition
