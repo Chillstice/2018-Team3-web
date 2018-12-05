@@ -1,4 +1,4 @@
 django
 gunicorn
 django-heroku
-python-3.6.6
+python-3.7.1
